@@ -1,3 +1,3 @@
-# 유한대학교 VR게임앱학과 Programming Pattern
-* 학번
-* 이름
+# Lecture 03 - VI 에디터 실습 및 C++ 기초 -
+* VI 에디터를 실습한다
+* C++ 관련 기초를 배운다
