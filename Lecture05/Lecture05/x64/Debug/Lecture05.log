@@ -1,4 +1,0 @@
-﻿  Lecture05.cpp
-C:\202227052\game_pp\Lecture05\Lecture05\Lecture05.cpp(42,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\202227052\game_pp\Lecture05\Lecture05\Lecture05.cpp(42,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-  Lecture05.vcxproj -> C:\202227052\game_pp\Lecture05\x64\Debug\Lecture05.exe
